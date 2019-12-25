@@ -20,6 +20,8 @@ import com.revrobotics.CANSparkMax;
  * project.
  */
 public class Robot extends TimedRobot {
+
+  // Make the practice robot do autonomous
   
   private static final String kDefaultAuto = "Default";
   private static final String kCustomAuto = "My Auto";
